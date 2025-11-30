@@ -50,13 +50,22 @@ Configuration The configuration file can be found at oxide/config/ItemLockUI.jso
 
 JSON
 
+
 {
+
   "BlockCrafting": true,    // Blocks crafting of the locked item
+  
   "BlockPickup": true,      // Blocks picking up the locked item from the ground/world
+  
   "BlockEquip": true,       // Blocks equipping the item (wearing/holding)
+  
   "BlockBeltMove": true,    // Blocks moving the item to the hotbar (belt)
+  
   "BlockDrop": true,        // Blocks dropping the item from inventory
+  
   "BlockUse": true,         // Blocks "using" the item (consuming, etc.)
+  
   "LockedItems": {}         // Stores currently locked items (Do not edit manually)
+  
 }
 .

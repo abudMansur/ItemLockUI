@@ -1,4 +1,5 @@
 # ItemLockUI
+![image](https://github.com/user-attachments/assets/d5de2a84-22cd-499a-8192-5d64eb29cce5)
 ItemLockUI
 Description ItemLockUI is a Rust plugin that allows server administrators to temporarily lock specific items using a modern, easy-to-use user interface. It prevents players from crafting, picking up, equipping, or using restricted items for a specific duration.
 
@@ -29,6 +30,7 @@ Real-time Feedback: Players receive an informative chat message with the remaini
 Persistent Data: Locked items and timers are saved, so restrictions remain active even after a server restart.
 
 Installation
+![image](https://github.com/user-attachments/assets/d5de2a84-22cd-499a-8192-5d64eb29cce5)
 
 Download the ItemLockUI.cs file.
 

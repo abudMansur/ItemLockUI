@@ -59,3 +59,4 @@ JSON
   "BlockUse": true,         // Blocks "using" the item (consuming, etc.)
   "LockedItems": {}         // Stores currently locked items (Do not edit manually)
 }
+.

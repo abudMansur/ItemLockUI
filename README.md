@@ -31,7 +31,6 @@ Real-time Feedback: Players receive an informative chat message with the remaini
 Persistent Data: Locked items and timers are saved, so restrictions remain active even after a server restart.
 
 Installation
-![image](https://github.com/user-attachments/assets/d5de2a84-22cd-499a-8192-5d64eb29cce5)
 
 Download the ItemLockUI.cs file.
 
